@@ -1,7 +1,7 @@
 basic:
-    name: 'Doyle PLC'
+    name: Boyle-Nitzsche
     environments:
-        production: 'https://spinka.biz/'
+        production: 'https://smith.org/et-qui-magni-ipsa-cumque.html'
         staging: ''
         development: ''
     breakpoints:
